@@ -26,3 +26,8 @@
   - Status
 - Pleitear Vaga
   - 
+
+## Serviço
+- Serviço na plataforma - REST
+  - protheus_homolog
+
