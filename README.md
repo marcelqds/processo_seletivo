@@ -11,8 +11,9 @@
 ## Técnologias
 - [x] Eclipse Lunar
 - [x] Fluig 1.8.1
-- [X] JQuery 
-- [X] NodeJs 20.x
 - [X] BPMN 1.0 / BPMN 2.0
-
+- [X] JQuery 
+- [X] Aws Lambda
+- [X] Aws ApiGateway
+- [X] NodeJs 20.x
 
