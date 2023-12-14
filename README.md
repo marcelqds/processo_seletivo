@@ -27,11 +27,16 @@
 - cadastroCandidato
   - 
 
+## Dataset
+- dsVaga
+- dsCandidato
+
+
 ## Serviço
 - Serviço na plataforma - REST
   - protheus_homolog (name)
   - https://mglaiwonq8.execute-api.sa-east-1.amazonaws.com (domain)
-  - /default/protheus/teste (rota para teste)
-  - /api/framework/v1/users (para para criação de usuário)
+  - GET /default/protheus (rota para teste)
+  - POST /default/protheus (para para criação de usuário)
 
 
