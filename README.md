@@ -20,14 +20,18 @@
 
 
 ## Formulários
-- Pré-Cadastro de Vaga
+- preCadastroVaga
   - Descrição
   - Nível
   - Status
-- Pleitear Vaga
+- cadastroCandidato
   - 
 
 ## Serviço
 - Serviço na plataforma - REST
-  - protheus_homolog
+  - protheus_homolog (name)
+  - https://mglaiwonq8.execute-api.sa-east-1.amazonaws.com (domain)
+  - /default/protheus/teste (rota para teste)
+  - /api/framework/v1/users (para para criação de usuário)
+
 
