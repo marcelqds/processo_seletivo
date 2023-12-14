@@ -8,6 +8,7 @@
 ## Sobre
 - Projeto construido como proposta do curso de fluig através da Universidade Totvs. O mesmo tem por finalidade, a construção de um simples processo seletivo, e a partir de que um candidato seja aprovado, um usuário deverá ser criado automaticamente para ele via rest no protheus.
 
+
 ## Técnologias
 - [x] Eclipse Lunar
 - [x] Fluig 1.8.1
@@ -17,3 +18,11 @@
 - [X] Aws ApiGateway
 - [X] NodeJs 20.x
 
+
+## Formulários
+- Pré-Cadastro de Vaga
+  - Descrição
+  - Nível
+  - Status
+- Pleitear Vaga
+  - 
