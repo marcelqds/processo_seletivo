@@ -6,13 +6,13 @@
 
 
 ## Sobre
-- Projeto construido como proposta do curso de fluig através da Universidade Totvs. O mesmo tem por finalidade, a construção de um simples processo seletivo, e a partir de que um candidato seja aprovado, um usuário deverá ser criado via rest no protheus.  
+- Projeto construido como proposta do curso de fluig através da Universidade Totvs. O mesmo tem por finalidade, a construção de um simples processo seletivo, e a partir de que um candidato seja aprovado, um usuário deverá ser criado automaticamente para ele via rest no protheus.
 
 ## Técnologias
-[x] - Eclipse Lunar
-[x] - Fluig 1.8.1
-[X] - JQuery 
-[X] - NodeJs 20.x
-[X] - BPMN 1.0 / BPMN 2.0
+- [x] Eclipse Lunar
+- [x] Fluig 1.8.1
+- [X] JQuery 
+- [X] NodeJs 20.x
+- [X] BPMN 1.0 / BPMN 2.0
 
 
