@@ -1,8 +1,8 @@
 <h1 align="center">Fluig - Processo seletivo</h1>
-<p align="center">
+<!-- <p align="center">
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#projetos">Técnologias utilizadas</a>&nbsp;&nbsp;|&nbsp;&nbsp;  
-</p>
+</p> -->
 
 
 ## Sobre
