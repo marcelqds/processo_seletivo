@@ -25,12 +25,17 @@
   - Nível
   - Status
 - cadastroCandidato
-  - 
+  - Vaga
+  - Nível
+  - Salário desejado
+  - Nome
+  - email
+  - linkedIn
+  - tempo de experiência 
 
 ## Dataset
 - dsVaga
 - dsCandidato
-
 
 ## Serviço
 - Serviço na plataforma - REST
